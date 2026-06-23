@@ -1,6 +1,7 @@
 # Bandit-bash
 Прохождение Bandit для улучшения навыков в bash начал 21.06.2026
 Также сюда буду прописывать интересные скрипты, которые будут попадаться в ходе прохождения
+
 <img width="521" height="171" alt="image" src="https://github.com/user-attachments/assets/947bda05-007a-4910-93b4-9f3558c44cde" />
 
 21/06/2026
