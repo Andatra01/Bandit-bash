@@ -25,3 +25,9 @@ find -name bandit7 -group bandit6 -size 33c
 <img width="1158" height="762" alt="image" src="https://github.com/user-attachments/assets/73657ad5-2834-49df-8922-6af5d80df172" />
 
 В общем на сегодня я решил ограничиться 10 страницами Шоттса "Командная строка"
+
+
+25/06/2026
+Прошел 7,8,9 уровни интересно стало на 9 уровне, гдде при переходе нужно было в огромном файле data.txt найти пароль - Решение нетривиальное использовать функцию string и указать длину пароля. Она выдала 3 варианта и всего 1 из них похож
+
+<img width="676" height="145" alt="image" src="https://github.com/user-attachments/assets/97812326-c814-4139-8484-bfecbc184882" />
